@@ -1,3 +1,3 @@
-## React Slide
+# React Slide
 
 React, Tailwind CSS
