@@ -1,1 +1,1 @@
-React Slide 기능
+## React Slide
